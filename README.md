@@ -14,7 +14,6 @@ Once you have installed python please execute the following from Command Line.
 
 It will open your web browser with the movies specified in entertainment_center.py 
 
-# Demo
-![Image of IB_movie_trailers] (https://drive.google.com/file/d/0Bz_sUVV0edHBeHhoUVZ3QVdNQTg/view?usp=sharing)
+
 
 
