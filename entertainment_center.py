@@ -59,8 +59,10 @@ traders = media.TvShow("Traders",
                         "http://www.gstatic.com/tv/thumb/tvbanners/184285/p184285_b_v8_ad.jpg", # noqa
                         "https://www.youtube.com/watch?v=n5RbftJr5CA") # noqa
 
+# Collect all the instances and put them into one array
 
 movies_and_tvshows = [wall_street, inside_job, margin_call, capitalism_a_love_story, barbarians_at_the_gate, the_wolf_of_wall_street, the_big_short, wall_street_warriors, traders,]
 
 
+# Execute the fuction open_movies_page
 fresh_tomatoes.open_movies_page(movies_and_tvshows)
