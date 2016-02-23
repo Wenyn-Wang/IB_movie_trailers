@@ -1,6 +1,7 @@
 import webbrowser
 
 class Video():
+    """This class provides a way to store video related information."""
     def __init__(self, movie_title, poster_image, trailer_youtube):
         print("Video Constructor Called")
         self.title = movie_title
