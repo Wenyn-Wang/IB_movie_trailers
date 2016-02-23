@@ -4,6 +4,8 @@ Get more of a flavor for what investment bankers actually do by watching these m
 # Installation
 Download Python: (https://www.python.org/downloads/)
 
+```pip install module``` or ```python setup.py install```
+
 Once you have installed python please execute the following from Command Line. 
 
 ```python -t entertainment_center.py```
