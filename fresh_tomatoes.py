@@ -39,7 +39,7 @@ main_page_head = '''
             padding-top: 20px;
         }
         .movie-tile:hover {
-            background-color: #EEE;
+            background-color: #6ED7D7;
             cursor: pointer;
         }
         .scale-media {
@@ -53,7 +53,7 @@ main_page_head = '''
             width: 100%;
             left: 0;
             top: 0;
-            background-color: white;
+            background-color: #6ED7D7;
         }
     </style>
     <script type="text/javascript" charset="utf-8">
