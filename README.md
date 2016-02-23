@@ -1,8 +1,10 @@
+IB_movie_trailers Version 1.0 [2016 Feb 23]
+
 # IB_movie_trailers
 Get more of a flavor for what investment bankers actually do by watching these movies.
 
 # Installation
-Download Python: (https://www.python.org/downloads/)
+[Download Python](https://www.python.org/downloads/)
 
 ```pip install module``` or ```python setup.py install```
 
