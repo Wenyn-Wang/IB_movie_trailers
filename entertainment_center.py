@@ -1,7 +1,7 @@
 import fresh_tomatoes
 import media
 
-# Movies
+# Different Movie instances
 
 wall_street = media.Movie("Wall Street (1987)",
                         "A young and impatient stockbroker is willing to do anything to get to the top,"
@@ -47,7 +47,7 @@ the_big_short = media.Movie("The Big Short",
                         "http://cdn3-www.comingsoon.net/assets/uploads/gallery/the-big-short/tbs_1-sht_teaser.jpg", # noqa
                         "https://www.youtube.com/watch?v=vgqG3ITMv1Q") # noqa
 
-# TvShows
+# Different TvShow instances
 
 wall_street_warriors = media.TvShow("Wall Street Warriors",
                         "season1, 2, 3",
